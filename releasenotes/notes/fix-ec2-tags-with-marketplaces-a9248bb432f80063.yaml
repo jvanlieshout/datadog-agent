@@ -1,0 +1,4 @@
+---
+fixes:
+  - |
+    Fix EC2 tags collection when mutliple marketplaces are set.
